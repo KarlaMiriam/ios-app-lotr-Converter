@@ -23,5 +23,6 @@ Um aplicativo iOS simples e eficiente que permite aos usuários converterem moed
 ## Instalação
 
 1. Clone o repositório:
-   ```bash
+   [```bash]
+   (https://github.com/KarlaMiriam/ios-app-lotr-Converter.git)
    
